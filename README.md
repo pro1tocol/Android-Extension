@@ -17,15 +17,10 @@
 
 ## This project is the complete android toolbox in Windows
 |
-
 |__adb = debug bridge
-
 |__fastboot = low-level
-
 |__devmgmt.msc = device manager
-
 |__LenovoUsbDriver_v1.1.47.exe = driver
-
 |
 
 ----------------------------
