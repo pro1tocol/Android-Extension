@@ -8,7 +8,7 @@
 
 -------------------------------------
 
-### ADB command
+### `ADB` command
 Make sure the device has debugging enabled
 
     adb                                     //show version
@@ -26,7 +26,7 @@ flash order
 
 -------------------------------------
 
-### fastboot command
+### `fastboot` command
 Make sure the device driver is installed
 
     fastboot -v                             //show version
@@ -45,3 +45,4 @@ flash order
 -------------------------------------
 
 Google-gapps check: [Here](https://opengapps.org)
+need into recovery `apply update` flash
