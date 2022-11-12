@@ -2,6 +2,6 @@
 -------------------------------------
 
 ### Mobile-Phone operate
-`bootloader` = volume `up` and `down` + `power`
+`bootloader` = volume **up** and **down** + **power**
 
-`recovery` = volume `up` + `power`
+`recovery` = volume **up** + **power**
