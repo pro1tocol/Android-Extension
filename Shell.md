@@ -20,10 +20,28 @@ special order
 
     adb reboot bootloader                   //into the fastboot
     adb reboot recovery                     //into the recovery
-flash command
+flash order
 
     adb sideload <file.zip>
 
 -------------------------------------
 
 ### fastboot command
+Make sure the device driver is installed
+
+    fastboot -v                             //show version
+    fastboot devices                        //show devices
+    fastboot oem device-info                //show BL-Lock status
+    fastboot set_active a/b                 //switch definition partition a/b
+    fastboot poweroff
+    fastboot reboot
+flash order
+
+    fastboot flash twrp.img
+    fastboot flash boot twrp.img
+    fastboot flash recovery twrp.img
+    fastboot flash system twrp.img
+    
+-------------------------------------
+
+Google-gapps check: [Here](opengapps.org)
