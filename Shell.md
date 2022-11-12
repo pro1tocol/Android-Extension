@@ -44,4 +44,4 @@ flash order
     
 -------------------------------------
 
-Google-gapps check: [Here](opengapps.org)
+Google-gapps check: [Here](https://opengapps.org)
