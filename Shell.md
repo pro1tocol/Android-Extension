@@ -44,5 +44,5 @@ flash order
     
 -------------------------------------
 
-Google-gapps check: [Here](https://opengapps.org)
+### Google-gapps check: [Here](https://opengapps.org)
 need into recovery `apply update` flash
