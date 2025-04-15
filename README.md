@@ -1,6 +1,3 @@
-# Android-extension
----
-
 ``` bash 
  █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ ██╗██████╗                    
 ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗                   
@@ -17,17 +14,18 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-## This project is the complete android toolbox in Windows
-    |
-    |__adb = debug bridge
-    |__fastboot = low-level
-    |__devmgmt.msc = device manager
-    |__LenovoUsbDriver_v1.1.47.exe = driver
-    |
+# <p align="center">Android-extension</p>
 
+## <p align="center">Android toolbox in Windows</p>
+``` bash
+    adb.exe # debug tool
+    fastboot # low-level tool
+    devmgmt.msc # device manager
+    LenovoUsbDriver_v1.1.47.exe # driver
+```
 
-### Please install the relevant drivers in advance before use
+### Install drivers before use
 
-`bootloader`driver install:
+`bootloader`install:
 
     System-settings > windows-updates > advanced-options > optional-update 
