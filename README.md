@@ -16,7 +16,6 @@
 
 # <p align="center">Android-extension</p>
 
-## <p align="center">Android toolbox in Windows</p>
 ``` bash
     adb.exe # debug tool
     fastboot # low-level tool
