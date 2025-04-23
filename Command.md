@@ -32,7 +32,7 @@ Make sure the device driver is installed
     fastboot -v                             #show version
     fastboot devices                        #show devices
     fastboot oem device-info                #show BL-Lock status
-    fastboot set_active a/b                 #switch definition partition a/b
+    fastboot set_active a/b                 #switch device partition a/b
     fastboot poweroff
     fastboot reboot
 ```
